@@ -26,6 +26,9 @@ Untuk mengerjakan project ini, dibutuhkan alat & bahan sebagai berikut :
 
 # Wiring Diagram
 
+![Wiring](https://github.com/adioperwira/ObstacleDetector/assets/147690354/7d14cd8b-6e19-48c9-b482-c7726589214b)
+
+
 Wiring Diagram dengan ketentuan sebagai berikut :
 
 1. Buzzer -> Pin 4 Arduino Uno
